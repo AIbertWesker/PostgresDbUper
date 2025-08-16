@@ -1,4 +1,5 @@
-﻿using PostgresDbUp;
+﻿
+using PostgresDbUp;
 
 var migrator = new PostgresDbUper(
     connectionString: "Host=localhost;Port=7004;Database=appdb;Username=appuser;Password=appsecret;Pooling=true;",

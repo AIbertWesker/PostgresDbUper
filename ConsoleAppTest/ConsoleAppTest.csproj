@@ -13,8 +13,10 @@
 		    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 	    </Content>
     </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\PostgresDbUp\PostgresDbUp.csproj" />
-  </ItemGroup>
+
+
+    <ItemGroup>
+      <PackageReference Include="PostgresDbUper" Version="1.0.0" />
+    </ItemGroup>
 
 </Project>
