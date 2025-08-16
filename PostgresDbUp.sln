@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgresDbUp", "PostgresDbUp\PostgresDbUp.csproj", "{742599A8-64FD-4C99-8934-C8B83D2628E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTest", "ConsoleAppTest\ConsoleAppTest.csproj", "{034C7DBD-5C94-41FD-A630-D21721408A95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{742599A8-64FD-4C99-8934-C8B83D2628E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742599A8-64FD-4C99-8934-C8B83D2628E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742599A8-64FD-4C99-8934-C8B83D2628E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742599A8-64FD-4C99-8934-C8B83D2628E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034C7DBD-5C94-41FD-A630-D21721408A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034C7DBD-5C94-41FD-A630-D21721408A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034C7DBD-5C94-41FD-A630-D21721408A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034C7DBD-5C94-41FD-A630-D21721408A95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B192CAC-D6B2-423E-AF2F-1B9215973877}
+	EndGlobalSection
+EndGlobal
